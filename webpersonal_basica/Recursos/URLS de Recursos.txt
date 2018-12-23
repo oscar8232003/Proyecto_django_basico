@@ -1,0 +1,80 @@
+Video 5
+
+https://github.com/hcosta/web-personal-curso-django-2
+https://webpersonal.pythonanywhere.com/
+
+Video 6
+
+https://docs.djangoproject.com/en/2.0/ref/django-admin/
+
+Video 7
+
+https://docs.djangoproject.com/en/2.0/ref/django-admin/
+
+Video 8
+
+https://docs.djangoproject.com/en/2.0/ref/request-response/#httpresponse-objects
+https://docs.djangoproject.com/en/2.0/topics/http/views/
+https://docs.djangoproject.com/en/2.0/topics/http/urls/
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 9
+
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 11
+
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 12
+
+https://docs.djangoproject.com/en/2.0/topics/http/shortcuts/#render
+https://docs.djangoproject.com/en/2.0/ref/templates/
+
+Video 14
+
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 15
+
+https://docs.djangoproject.com/en/2.0/ref/templates/builtins/#block
+https://docs.djangoproject.com/en/2.0/ref/templates/builtins/#extends
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 17
+
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 18
+
+https://docs.djangoproject.com/en/2.0/ref/templates/builtins/#url
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 19
+
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 20
+
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/core
+
+Video 23
+
+https://docs.djangoproject.com/en/2.0/topics/migrations/
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/portfolio
+
+Video 24
+
+https://github.com/hcosta/web-personal-curso-django-2/tree/master/webpersonal/portfolio
+
+Video 25
+
+https://docs.djangoproject.com/en/2.0/ref/models/options/
+https://docs.djangoproject.com/en/2.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.readonly_fields
+https://docs.djangoproject.com/en/2.0/howto/static-files/#serving-files-uploaded-by-a-user-during-development
+
+Video 26
+
+https://docs.djangoproject.com/en/2.0/topics/db/queries/#retrieving-all-objects
+https://docs.djangoproject.com/en/2.0/topics/db/queries/#retrieving-specific-objects-with-filters
+https://docs.djangoproject.com/en/2.0/topics/db/models/
